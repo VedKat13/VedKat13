@@ -56,8 +56,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vedkat13&theme=tokyonight" width="95%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vedkat13&theme=tokyo-night" width="100%" />
 </p>
+
 
 
 ---
