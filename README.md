@@ -56,8 +56,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vedkat13&theme=tokyo-night" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vedkat13&theme=tokyonight" alt="Server down"width="95%" />
 </p>
+
 
 
 
