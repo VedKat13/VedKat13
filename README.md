@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 I'm a 2nd-year Computer Engineering student at **COEP Technological University**
+- 🎓 I'm a 3rd-year Computer Engineering student at **COEP Technological University**
 - 🌱 Currently learning: `MERN Stack` & `Firebase Integration`
 - 👨‍💻 Actively working on: **WordPress Admin App**
 - 💬 Ask me about: `UI/UX Design`, `React`, `Firebase`, `Web Architecture`
@@ -71,16 +71,27 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://codepen.io/vedantkatruwar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" width="30" /></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/vedant2k5"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.behance.net/vedantkatruwar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" width="30" /></a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/vedantkatruwar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="30" /></a>
-  &nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/ukvedaxti8/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" width="30" /></a>
+  <a href="https://codepen.io/vedantkatruwar" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-%23131417.svg?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/vedant2k5" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.behance.net/vedantkatruwar" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-%23191919.svg?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/vedantkatruwar" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/ukvedaxti8/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
