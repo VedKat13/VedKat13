@@ -71,7 +71,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://codepen.io/vedantkatruwar" target="_blank">
+  <a href="https://codepen.io/vedant-katruwar" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-%23131417.svg?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
   &nbsp;
