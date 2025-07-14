@@ -94,14 +94,3 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
-
-
----
-
-## 📌 Pinned Projects
-
-- 🔧 [WordPress Admin App](https://github.com/VedKat13/Wordpress-Admin-App) — Streamlined content control via mobile
-- 🧩 [Portfolio Website](https://github.com/VedKat13/Portfolio) — Modern portfolio in React + Tailwind
-- 🎯 [Habit Tracker App](https://github.com/VedKat13/HabitUp-Project) — Productivity app with user dashboard
-
----
