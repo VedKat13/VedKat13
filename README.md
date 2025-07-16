@@ -1,12 +1,6 @@
 <h1 align="center">Hey 👋, I'm Vedant Katruwar</h1>
 <h3 align="center">💻 Aspiring Full Stack Developer | 🎨 UI/UX Designer | 🚀 MERN Stack Enthusiast</h3>
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=VedKat13&label=Profile%20views&color=0e75b6&style=flat"
-    alt="VedKat13"
-  />
-</p>
-<p align="center">
   <a href="mailto:ukvedant95@gmail.com"><img src="https://img.shields.io/badge/email-ukvedant95@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/vedant2k5" target="_blank"><img src="https://img.shields.io/badge/Instagram-vedant2k5-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vedkat13/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-vedkat13-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
