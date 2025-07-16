@@ -2,9 +2,9 @@
 <h3 align="center">💻 Aspiring Full Stack Developer | 🎨 UI/UX Designer | 🚀 MERN Stack Enthusiast</h3>
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=hardikmutha&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=VedKat13&label=Profile%20views&color=0e75b6&style=flat"
     alt="VedKat13"
-  />
+  />
 </p>
 <p align="center">
   <a href="mailto:ukvedant95@gmail.com"><img src="https://img.shields.io/badge/email-ukvedant95@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
